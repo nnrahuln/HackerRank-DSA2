@@ -56,7 +56,8 @@ def reverse(head):
 ## Complexity
 
 * **Time Complexity:** `O(n)`
-* **Space Complexity:** `O(1)`
+* **Space Complexity:** `O(1)
+* * **Time Complexity:** `O(n)``
 
 Where `n` is the number of nodes in the linked list.
 
