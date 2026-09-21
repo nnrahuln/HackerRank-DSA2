@@ -79,3 +79,8 @@ def compare_lists(llist1, llist2):
 
     return 0
 ```
+Time Complexity
+
+O(n)
+
+Where n is the number of nodes checked.
