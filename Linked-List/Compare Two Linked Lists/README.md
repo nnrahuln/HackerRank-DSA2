@@ -84,3 +84,9 @@ Time Complexity
 O(n)
 
 Where n is the number of nodes checked.
+
+Space Complexity
+
+O(1)
+
+No extra data structure is used.
