@@ -94,3 +94,4 @@ No extra data structure is used.
 ###HackerRank###
 
 Problem: Compare Two Linked Lists
+Topic: Linked List
