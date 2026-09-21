@@ -91,7 +91,7 @@ O(1)
 
 No extra data structure is used.
 
-###HackerRank###
+## HackerRank
 
 Problem: Compare Two Linked Lists
 Topic: Linked List
