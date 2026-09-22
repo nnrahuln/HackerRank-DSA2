@@ -53,7 +53,7 @@ Output:
 
 The first node is equal, but the second list is shorter.
 
-## Approach
+## Approach:
 
 1. Start from the head of both linked lists.
 2. Compare the data of the current nodes.
