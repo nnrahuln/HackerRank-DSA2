@@ -79,7 +79,7 @@ def compare_lists(llist1, llist2):
 
     return 0
 ```
-Time Complexity
+Time Complexity:
 
 O(n)
 
