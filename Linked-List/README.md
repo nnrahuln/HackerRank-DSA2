@@ -33,7 +33,7 @@ def printLinkedList(head):
 ```
 
 ## Logic
-
+linked list
 1. Start from `head`.
 2. Check whether the current node is `None`.
 3. Print `current.data`.
