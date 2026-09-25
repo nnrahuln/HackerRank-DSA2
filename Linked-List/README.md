@@ -32,7 +32,7 @@ def printLinkedList(head):
         current = current.next
 ```
 
-## Logic
+## Logic ##
 linked list
 1. Start from `head`.
 2. Check whether the current node is `None`.
