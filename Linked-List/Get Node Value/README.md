@@ -85,6 +85,8 @@ n - 1 - positionFromTail
 
 ## Topics
 * Linked List
+* Singly Linked List
+* Traversal
 
 
 
