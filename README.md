@@ -12,6 +12,7 @@ The task is to reverse an array of integers.
 
 #### Example
 
+
 Input:
 
 ```text
